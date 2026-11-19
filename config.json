@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-python-with-pytest",
+      "title": "Testing Python Programs with pytest",
+      "description": "Write automated tests with pytest, use edge cases to find bugs, and correct a small gradebook program.",
+      "path": "assignments/testing-python-with-pytest",
+      "dueDate": "2026-11-26",
+      "attachments": [
+        {
+          "name": "Pytest Starter Tests",
+          "file": "test_gradebook.py",
+          "type": "python"
+        },
+        {
+          "name": "Gradebook Module",
+          "file": "gradebook.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
